@@ -20,9 +20,7 @@ class About_me:
         self.languages = ['Python', 'HTML', 'CSS']
 	   
         self.projects = [
-            'Amyntas (https://github.com/Nexuzzzz/amyntas), a super fast HTTP stress testing tool written in Python',
-            'PyPS3(https://github.com/Nexuzzzz/PyPS3), a library used to mod on CFW PS3\'s remotely',
-            'Sucuri (https://Nexuzzzz/Sucuri), a free and powerfull Discord selfbot (which is still unfinished)'
+            'Amyntas (https://github.com/Nexuzzzz/amyntas), a super fast HTTP stress testing tool written in Python'
         ]
 ```
 
