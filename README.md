@@ -20,6 +20,7 @@ class About_me:
         self.languages = ['Python', 'HTML', 'CSS']
 	   
         self.projects = [
+	    'PyPS3 (https://github.com/Nexuzzzz/pyps3), a python module to mod your CFW PS3 (Requires WEBMan)'
             'Amyntas (https://github.com/Nexuzzzz/amyntas), a super fast HTTP stress testing tool written in Python'
         ]
 ```
