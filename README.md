@@ -2,7 +2,7 @@
  > cat about_me.py
 ```
 
-<!-- why py? because py nice -->
+<!-- why py? because python nice -->
 
 ```py
 class About_me:
@@ -13,7 +13,7 @@ class About_me:
         I develop a lot of stuff, ranging from Discord selfbots to game modding tools and malware. Thanks for reading this!
         '''
 	   
-        self.os = 'Windows 10 (for now)'
+        self.os = 'Windows 10/Kali/Ubuntu/Debian'
         self.ram = '8 gb'
         self.cpu = 'AMD Ryzen 5'
         self.gpu = 'AMD Radeon'
