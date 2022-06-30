@@ -13,7 +13,7 @@ class About_me:
         I develop a lot of stuff, ranging from Discord selfbots to game modding tools and malware. Thanks for reading this!
         '''
 	   
-        self.os = 'Windows 10/Kali/Ubuntu/Debian'
+        self.os = 'Pop!_OS'
         self.ram = '8 gb'
         self.cpu = 'AMD Ryzen 5'
         self.gpu = 'AMD Radeon'
@@ -21,7 +21,8 @@ class About_me:
 	   
         self.projects = [
 	    'PyPS3 (https://github.com/Nexuzzzz/pyps3), a python module to mod your CFW PS3 (Requires WEBMan)'
-            'Amyntas (https://github.com/Nexuzzzz/amyntas), a super fast HTTP stress testing tool written in Python'
+            'Amyntas (https://github.com/Nexuzzzz/amyntas), a super fast HTTP stress testing tool written in Python',
+	    'Cerberus (https://github.com/Nexuzzzz/Cerberus), the successor of Amyntas'
         ]
 ```
 
