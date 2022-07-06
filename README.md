@@ -2,27 +2,28 @@
  > cat about_me.py
 ```
 
-<!-- why py? because python nice -->
-
 ```py
 class About_me:
     def __init__(self):
         self.about_me = '''
-	I am Nexus, a self taught Python developer. 
-        I code in more languages, but i prefer Python. 
-        I develop a lot of stuff, ranging from Discord selfbots to game modding tools and malware. Thanks for reading this!
+	Hey there! I'm Nexus, a programming enthousiast from the netherlands
+	I love writing code, and i tend to experiment quite a lot with it. My favorite language is Python, 
+	and almost all of my projects are written in it. Anyways, enough about me, go check my repositories!
         '''
-	   
-        self.os = 'Pop!_OS'
-        self.ram = '8 gb'
-        self.cpu = 'AMD Ryzen 5'
-        self.gpu = 'AMD Radeon'
+	
+	self.specs = {
+	    'os': 'Pop!_OS',
+	    'ram': '8gb',
+	    'cpu': 'AMD Ryzen 5000',
+	    'gpu': 'AMD Radeon',
+	    'space': '1254gb' # yes, 1 terabyte and 254 gigabytes
+	{
         self.languages = ['Python', 'HTML', 'CSS']
 	   
         self.projects = [
 	    'PyPS3 (https://github.com/Nexuzzzz/pyps3), a python module to mod your CFW PS3 (Requires WEBMan)'
             'Amyntas (https://github.com/Nexuzzzz/amyntas), a super fast HTTP stress testing tool written in Python',
-	    'Cerberus (https://github.com/Nexuzzzz/Cerberus), the successor of Amyntas'
+	    'Cerberus (https://github.com/Nexuzzzz/Cerberus), a HTTP stress testing toolkit with a complete arsenal of attack methods. Also the successor of Amyntas'
         ]
 ```
 
